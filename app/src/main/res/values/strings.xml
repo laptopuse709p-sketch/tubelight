@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tubelight</string>
+    <string name="menu">Player options</string>
+    <string name="notif_channel">Background playback</string>
+    <string name="notif_title">Tubelight is playing</string>
+    <string name="notif_text">Tap to return to the video</string>
+</resources>
